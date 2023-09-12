@@ -1,0 +1,11 @@
+{
+    "name": "Petcare",
+    "alias": "petcare",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Petcare\\Providers\\PetcareServiceProvider"
+    ],
+    "files": []
+}
